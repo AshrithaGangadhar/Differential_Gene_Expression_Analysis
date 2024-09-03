@@ -1,5 +1,4 @@
-# Differential_Gene_Expression_Analysis
-To identify differentially expressed genes in the uterine leiomyosarcoma samples across tumor vs non-tumor conditions.
+# Differential Gene Expression Analysis of Uterine Leiomyosarcoma
 
 The datasets for this analysis were sourced from the study titled **["Transcriptome Analysis for miR-10b-5p Transfected Leiomyosarcoma Cells"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10073409)** with the accession number [GSE201542](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE201542) in the Gene Expression Omnibus (GEO) database.
 
@@ -73,6 +72,7 @@ The analysis identified several genes that are differentially expressed between 
 | ZNF114-AS1  | 790.01     | 2.06             | 0.16         | 12.82       | 1.34E-37 | 5.93E-35         |
 | ZNF570      | 6970.55    | 2.03             | 0.43         | 4.71        | 2.53E-06 | 8.88E-05         |
 | P2RX4       | 550.51     | 1.97             | 0.37         | 5.38        | 7.51E-08 | 3.45E-06         |
+
 
 👇 **Downregulated genes**: These genes might play roles in normal cellular functions that are suppressed in tumor cells, potentially acting as tumor suppressors. The top 10 downregulated genes are listed below:
 
